@@ -1,0 +1,6 @@
+{
+    "server_ip": "X.X.X.X",
+    "tau": "0.00025",
+	"min_matches": "5000",
+	"workers_no": "20"
+}
